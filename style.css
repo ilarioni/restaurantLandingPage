@@ -63,3 +63,17 @@
     width: 25px;
     margin-left: 20px;
 }
+.left-arrow {
+    width: 65px;
+    position: absolute;
+    bottom: 0;
+    right: 20px;
+}
+
+.navbar {
+    width: 80%;
+    margin: 40px auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
