@@ -32,3 +32,18 @@
     top: 170px;
     left: 80px;
 }
+.rating {
+    width: 90px;
+}
+
+.content-box h1 {
+    font-size: 58px;
+    margin: 15px 0 30px;
+}
+
+.content-box p {
+    font-size: 13px;
+    color: #949494;
+    line-height: 15px;
+    margin-bottom: 80px;
+}
