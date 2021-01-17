@@ -121,3 +121,32 @@
     width: 15px;
     margin-right: 15px;
 }
+
+.more-items {
+    width: 220px;
+    display: block;
+    position: absolute;
+    bottom: -75px;
+    right: 100px;
+}
+
+.more-items img {
+    width: 220px;
+    margin: 10px 0;
+}
+
+.right-arrow {
+    width: 65px;
+    position: absolute;
+    bottom: 0;
+    left: 20px;
+}
+
+.main-img {
+    width: 550px;
+    position: absolute;
+    top: 50%;
+    left: 52%;
+    transform: translate(-50%, -45%);
+    
+}
