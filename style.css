@@ -77,3 +77,27 @@
     align-items: center;
     justify-content: flex-end;
 }
+.search-box {
+    display: flex;
+    align-items: center;
+    background: rgba(255,255,255,0.3);
+    padding: 7px 15px;
+    border-radius: 20px;
+}
+
+.search-box input {
+    background: transparent;
+    border: 0;
+    outline: none;
+    color: #fff;
+}
+
+::placeholder {
+    color: #fff;
+    font-size: 10px;
+}
+
+.search-box img {
+    width: 14px;
+    margin-left: 20px; 
+}
