@@ -47,3 +47,19 @@
     line-height: 15px;
     margin-bottom: 80px;
 }
+.content-box button {
+    background: #ff7878;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    border: 0;
+    outline: none;
+    border-radius: 4px;
+    padding: 13px 25px;
+    cursor: pointer;
+}
+
+.content-box button img {
+    width: 25px;
+    margin-left: 20px;
+}
